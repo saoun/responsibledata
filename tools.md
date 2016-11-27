@@ -5,3 +5,15 @@
 
 ## Scraping Video and Photo
 [VideoVault](https://www.bravenewtech.org/)
+
+## File/Management Platform
+[Martus](https://www.martus.org/)
+
+## Messaging
+Signal
+Wire
+
+## Browsers
+[HTTPS Everywhere](https://chrome.google.com/webstore/detail/https-everywhere/gcbommkclmclpchllfjekcdonpmejbdp?hl=en)
+[Privacy Badger](https://chrome.google.com/webstore/detail/privacy-badger/pkehgijcmpdhfbdbbnkijodmdjhbjlgp)
+

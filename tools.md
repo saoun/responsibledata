@@ -11,6 +11,7 @@
 ## Messaging
 Signal
 Wire
+Otr.to
 
 ## Browsers
 [HTTPS Everywhere](https://chrome.google.com/webstore/detail/https-everywhere/gcbommkclmclpchllfjekcdonpmejbdp?hl=en)
